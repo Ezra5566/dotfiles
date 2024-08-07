@@ -146,3 +146,5 @@ eval "$(starship init bash)"
 if [ -f /etc/motd ]; then
   sudo mv /etc/motd /etc/motd.bak
 fi
+
+fastfetch
